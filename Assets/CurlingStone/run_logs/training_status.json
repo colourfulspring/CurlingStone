@@ -1,0 +1,65 @@
+{
+    "CurlingStone": {
+        "checkpoints": [
+            {
+                "steps": 3499983,
+                "file_path": "results\\CurlingStone\\CurlingStone\\CurlingStone-3499983.onnx",
+                "reward": null,
+                "creation_time": 1680643429.0071375,
+                "auxillary_file_paths": [
+                    "results\\CurlingStone\\CurlingStone\\CurlingStone-3499983.pt"
+                ]
+            },
+            {
+                "steps": 3999984,
+                "file_path": "results\\CurlingStone\\CurlingStone\\CurlingStone-3999984.onnx",
+                "reward": -736.9573917388916,
+                "creation_time": 1680645640.4791431,
+                "auxillary_file_paths": [
+                    "results\\CurlingStone\\CurlingStone\\CurlingStone-3999984.pt"
+                ]
+            },
+            {
+                "steps": 4499959,
+                "file_path": "results\\CurlingStone\\CurlingStone\\CurlingStone-4499959.onnx",
+                "reward": null,
+                "creation_time": 1680647860.085131,
+                "auxillary_file_paths": [
+                    "results\\CurlingStone\\CurlingStone\\CurlingStone-4499959.pt"
+                ]
+            },
+            {
+                "steps": 4999990,
+                "file_path": "results\\CurlingStone\\CurlingStone\\CurlingStone-4999990.onnx",
+                "reward": null,
+                "creation_time": 1680650096.2308445,
+                "auxillary_file_paths": [
+                    "results\\CurlingStone\\CurlingStone\\CurlingStone-4999990.pt"
+                ]
+            },
+            {
+                "steps": 5000118,
+                "file_path": "results\\CurlingStone\\CurlingStone\\CurlingStone-5000118.onnx",
+                "reward": null,
+                "creation_time": 1680650096.3168445,
+                "auxillary_file_paths": [
+                    "results\\CurlingStone\\CurlingStone\\CurlingStone-5000118.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000118,
+            "file_path": "results\\CurlingStone\\CurlingStone.onnx",
+            "reward": null,
+            "creation_time": 1680650096.3168445,
+            "auxillary_file_paths": [
+                "results\\CurlingStone\\CurlingStone\\CurlingStone-5000118.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
